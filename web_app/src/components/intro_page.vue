@@ -4,17 +4,11 @@
     <div class="Container-text-left">
       <h1>VOIS Security Systems</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit,
-        consequuntur harum ipsum vitae assumenda nobis reiciendis similique
-        deserunt, est magnam voluptatem! Nam eveniet quisquam officiis in rem
-        dolore blanditiis consequuntur.Lorem ipsum dolor sit amet consectetur
-        adipisicing elit. Velit, consequuntur harum ipsum vitae assumenda nobis
-        reiciendis similique deserunt, est magnam voluptatem! Nam eveniet
-        quisquam officiis in rem dolore blanditiis consequuntur.Lorem ipsum
-        dolor sit amet consectetur adipisicing elit. Velit, consequuntur harum
-        ipsum vitae assumenda nobis reiciendis similique deserunt, est magnam
-        voluptatem! Nam eveniet quisquam officiis in rem dolore blanditiis
-        consequuntur.
+        VOIS system we built, is depended on three main concepts. These are Face
+        Recognition, Speech Analysis and Posture Detection. The data processed
+        in Cloud system, determines the behaviour of security system. Risk map
+        will be refreshed, Doors will be locked, necessary notifications will be
+        sent.
       </p>
     </div>
   </div>
